@@ -5,6 +5,8 @@ Requerimientos
 
 Necesitas tener instalado python : https://www.python.org/downloads/
 
+Utilice Visual Studio Code: https://code.visualstudio.com/download
+
 Necesitas instalar las dependencias para que funcione el script : pip install pynput
 
 
